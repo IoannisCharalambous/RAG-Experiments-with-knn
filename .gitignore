@@ -1,0 +1,17 @@
+*.index
+*.ann
+*.csv
+*.pkl
+*.npy
+*.txt
+datasets/
+
+# Python caching & environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.env
